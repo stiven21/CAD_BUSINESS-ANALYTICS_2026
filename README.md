@@ -3,3 +3,6 @@ Contiene practicas realizadas para el CAD de BUSINESS ANALYTICS de la especializ
 
 ## Abrir en Google Colab la Practica de analisis descriptivo de datos
 [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/stiven21/CAD_BUSINESS-ANALYTICS_2026/blob/main/Practica%20de%20analisis%20descriptivo%20de%20datos/Analisis_Descriptivo_de_Datos_Duvan_Garcia.ipynb)
+
+## Abrir en Google Colab la Practica de analisis predictivo de datos
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1BRxvi6oTpLKvz7mp4tLN0rwKvqJrWweZ#scrollTo=JmaDa9OKK-d1)
